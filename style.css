@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+}
+
+
+.header {
+    background-color: black;
+    padding: 0 25%;
+
+}
+
+.footer {
+    background-color: black;
+    padding: 0 26% 2% 26%;
+}
+
+
+
+.list_links {
+    float: right;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.link {
+    color: white;
+    text-decoration-line: none;
+    font-family: "century gothic", "arial";
+    margin-right: 27px;
+}
+
+.torso {
+    font-family: "Minion Pro";
+    width: 50%;
+    margin: auto;
+}
+
+.h1 {
+    font-style: italic;
+    font-size: 35px;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+
+.h4 {
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.about {
+    display: inline-block;
+    width: 48%;
+}
+
+.about .h1 {
+    margin-top: 0;
+}
+
+.about.right {
+    margin-right: 2%;
+}
+
+.white {
+    color: white;
+}
+
+.grey{
+    color: #C0C0C0;
+}
+
+.bottom{
+    margin-bottom: 15%;
+}
+
+/*
+.h4_under_fst {
+    font-size: 12px;
+    max-width: 450px;
+    display: inline-block;
+}
+
+.h4_under_scn {
+    font-size: 12px;
+    max-width: 450px;
+    float: right;
+}
+*/
+
+
+.ftext {
+    margin-top: 75px;
+}
+
+.book {
+    margin-top: 55px;
+    text-align: right;
+    padding-left: 30%;
+    width: 60%;
+}
+
+.book_too {
+    text-align: right;
+}
+
+
+
+.designed {
+    text-align: right;
+    font-size: 12px;
+    padding: 0 25%;
+}
+
+.made_by {
+    text-decoration: none;
+    font-family: "Adobe Fan Heity Std", "Times new roman";
+}
+
+p{
+    margin: 0;
+}
